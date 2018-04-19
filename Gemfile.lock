@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    net-http-digest_auth (1.4.1)
+    rack (2.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  net-http-digest_auth
+  rack
+
+BUNDLED WITH
+   1.16.1
